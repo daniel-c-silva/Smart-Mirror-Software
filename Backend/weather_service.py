@@ -2,7 +2,7 @@
 import requests
 
 # ! Configuration (You can move these to a config file later)
-OPENWEATHER_API_KEY = "3e1c5efdd4f3bc8aa94659cdf79b802a"  # * Get from https://openweathermap.org/api
+OPENWEATHER_API_KEY = "your own api"  # * Get from https://openweathermap.org/api
 CITY = "Porto"
 
 # ! Function to get weather data from API
