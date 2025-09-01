@@ -2,7 +2,7 @@
 import requests
 
 # ! Configuration - NewsAPI key for accessing news data
-NEWS_API_KEY = "3aab2640c7a248ac8d85bdf2692412b4"  # * Your valid API key
+NEWS_API_KEY = "your own api"  # * Your valid API key
 
 # ! Main function to fetch news headlines
 def get_news_headlines():
